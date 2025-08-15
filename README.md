@@ -1,7 +1,7 @@
 # MobilityDatabase-GeoMatching
 
 ## Description
-An attempt to match [feeds locations in Mobility Database](https://mobilitydatabase.org/)) with population data from [cities global dataset](https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/table/?disjunctive.cou_name_en&sort=name&location=11,33.98913,-118.14059&basemap=jawg.light)
+An attempt to match [feeds locations in Mobility Database](https://mobilitydatabase.org/) with population data from [cities global dataset](https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/table/?disjunctive.cou_name_en&sort=name&location=11,33.98913,-118.14059&basemap=jawg.light)
 
 ## Results
 
