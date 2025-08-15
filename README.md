@@ -5,9 +5,9 @@ An attempt to match [feeds locations in Mobility Database](https://mobilitydatab
 
 ## Results
 
-Matched cities: 916
-Unmatched cities: 2764
-Population covered: 148,232,295
+- Matched cities: 916
+- Unmatched cities: 2764
+- Population covered: 148,232,295
 
 ## Code
 
