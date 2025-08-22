@@ -1,7 +1,7 @@
 # Community mapping
 
 ## Votes origin
-How many votes by contributors?
+How many votes per contributor?
 
 <iframe title="Votes"
   aria-label="Map"
@@ -13,11 +13,11 @@ How many votes by contributors?
 </iframe>
 
 ## Issues origin
-How many issues posted by contributors?
+How many issues posted per contributor?
 
 <iframe title="Issues"
   aria-label="Map"
-  src="https://datawrapper.dwcdn.net/hsNah/1/"
+  src="https://datawrapper.dwcdn.net/Oys3H/2/"
   scrolling="no"
   frameborder="0"
   style="width: 100%; min-width: 300px; border: none;"
@@ -25,7 +25,7 @@ How many issues posted by contributors?
 </iframe>
 
 ## Pull requests origin
-How many pull requests posted by contributors?
+How many pull requests posted per contributor?
 
 <iframe title="PR"
   aria-label="Map"
