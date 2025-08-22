@@ -29,7 +29,7 @@ How many pull requests posted by contributors?
 
 <iframe title="PR"
   aria-label="Map"
-  src="https://datawrapper.dwcdn.net/3kQ9R/2/"
+  src="https://datawrapper.dwcdn.net/kAeqU/1/"
   scrolling="no"
   frameborder="0"
   style="width: 100%; min-width: 300px; border: none;"
