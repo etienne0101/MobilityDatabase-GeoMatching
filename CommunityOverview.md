@@ -5,7 +5,7 @@ How many votes per contributor?
 
 <iframe title="Votes"
   aria-label="Map"
-  src="https://datawrapper.dwcdn.net/eUhJa/9/"
+  src="https://datawrapper.dwcdn.net/UenJI/1/"
   scrolling="no"
   frameborder="0"
   style="width: 100%; min-width: 300px; border: none;"
