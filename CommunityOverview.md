@@ -60,3 +60,11 @@ Number of contributions per country
   height="600">
 </iframe>
 
+<iframe title="Comments per organization"
+  aria-label="Map"
+  src="https://datawrapper.dwcdn.net/Kp4aK/1/"
+  scrolling="no"
+  frameborder="0"
+  style="width: 100%; min-width: 300px; border: none;"
+  height="600">
+</iframe>
