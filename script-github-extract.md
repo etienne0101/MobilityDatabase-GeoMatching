@@ -3,6 +3,12 @@ Fields: Github_id, date of comment
 
 **All is done through Terminal**
 
+### Create script
+```
+nano ~/Downloads/fetch_comments.sh
+```
+
+### Write script
 ```
 #!/bin/bash
 
@@ -35,3 +41,16 @@ done
 echo " result in $outfile"
 
 ```
+Type 'ctrl+o', then 'Return', then 'ctrl+x'
+
+### Make script executable
+```
+chmod +x ~/Downloads/fetch_comments.sh
+```
+
+### Launch script
+```
+~/Downloads/fetch_comments.sh
+```
+
+
