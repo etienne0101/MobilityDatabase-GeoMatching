@@ -51,6 +51,8 @@ Number of contributions per country
 
 # Comments analysis
 
+[Find the script to extract comments data from Github through your terminal](https://github.com/etienne0101/MobilityDatabase-GeoMatching/blob/main/script-github-extract.md)
+
 ## Comments since 2015
 Until August 2025
 
