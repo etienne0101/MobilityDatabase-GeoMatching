@@ -47,3 +47,16 @@ Number of contributions per country
   style="width: 100%; min-width: 300px; border: none;"
   height="600">
 </iframe>
+
+
+# Comments analysis
+
+<iframe title="Comments per month"
+  aria-label="Chart"
+  src="https://datawrapper.dwcdn.net/zYdv3/1/"
+  scrolling="no"
+  frameborder="0"
+  style="width: 100%; min-width: 300px; border: none;"
+  height="600">
+</iframe>
+
