@@ -51,6 +51,9 @@ Number of contributions per country
 
 # Comments analysis
 
+## Comments since 2015
+Until August 2025
+
 <iframe title="Comments per month"
   aria-label="Chart"
   src="https://datawrapper.dwcdn.net/zYdv3/1/"
@@ -60,6 +63,8 @@ Number of contributions per country
   height="600">
 </iframe>
 
+## Map
+**Note:** Only contributors with more than 5 comments have been taken into account for this map.
 <iframe title="Comments per organization"
   aria-label="Map"
   src="https://datawrapper.dwcdn.net/Kp4aK/1/"
