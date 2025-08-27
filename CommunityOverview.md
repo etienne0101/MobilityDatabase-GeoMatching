@@ -1,4 +1,5 @@
 # Community mapping
+Using Github data to map the origin of contributions on google/transit repository.
 
 ## Votes origin
 How many votes per contributor?
