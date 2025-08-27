@@ -27,7 +27,7 @@ while true; do
               -H "Authorization: Bearer $GITHUB_TOKEN" \
               "https://api.github.com/repos/google/transit/issues/comments?per_page=100&page=$page")
 
-  # Stop si pas de résultats
+  # Stop if no result
   if [ "$(echo "$data" | jq length)" -eq 0 ]; then
     break
   fi
